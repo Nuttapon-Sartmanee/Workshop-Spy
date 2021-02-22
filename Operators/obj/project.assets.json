@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Git\\Workshop Spy\\Not Finish\\Not Finish.csproj",
-      "projectName": "Not Finish",
-      "projectPath": "D:\\Desktop\\Git\\Workshop Spy\\Not Finish\\Not Finish.csproj",
+      "projectUniqueName": "D:\\Desktop\\Git\\Workshop Spy\\Operators\\Operators.csproj",
+      "projectName": "Operators",
+      "projectPath": "D:\\Desktop\\Git\\Workshop Spy\\Operators\\Operators.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\Git\\Workshop Spy\\Not Finish\\obj\\",
+      "outputPath": "D:\\Desktop\\Git\\Workshop Spy\\Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
