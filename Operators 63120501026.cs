@@ -19,7 +19,7 @@ namespace Operators
             {
                 a1 = input2 % 3;
                 a2 = input2 % 100 / 10;
-                a3 = input2 % 1000 / 100;
+                a3 = input2 % 10000 / 1000;
 
                 CIA = (a1 == 0) && ((a2 != 1) && (a2 != 3) && (a2 != 5)) && (a3 >= 6 && a3 != 8);
                 Console.WriteLine(CIA);
