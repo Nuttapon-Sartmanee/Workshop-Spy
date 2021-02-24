@@ -17,7 +17,7 @@ namespace Operators
 
             if (input1 == "CIA")
             {
-                a1 = input2 % 3;
+                a1 = (input2 % 10) % 3;
                 a2 = input2 % 100 / 10;
                 a3 = input2 % 10000 / 1000;
 
